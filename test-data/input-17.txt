@@ -1,0 +1,3 @@
+# SINGLE fails if fallback secondary reports failure
+GT4500,0,0,1,1
+TORPEDO,SINGLE

@@ -1,0 +1,4 @@
+# SINGLE alternates to secondary and does not fall back after its failure
+SUCCESS  # Ship initialized
+SUCCESS  # TORPEDO,SINGLE
+FAIL  # TORPEDO,SINGLE

@@ -1,0 +1,4 @@
+# ALL succeeds with empty primary and healthy secondary
+GT4500,0,0,1,0
+TORPEDO,ALL
+TORPEDO,ALL

@@ -1,0 +1,5 @@
+# SINGLE consumes exactly one torpedo per command
+SUCCESS  # Ship initialized
+SUCCESS  # TORPEDO,SINGLE
+SUCCESS  # TORPEDO,SINGLE
+FAIL  # TORPEDO,SINGLE

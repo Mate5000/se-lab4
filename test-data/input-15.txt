@@ -1,0 +1,3 @@
+# ALL fails with empty primary and failing secondary
+GT4500,0,0,1,1
+TORPEDO,ALL

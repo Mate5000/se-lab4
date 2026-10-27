@@ -1,0 +1,4 @@
+# SINGLE alternates to secondary and does not fall back after its failure
+GT4500,2,0,1,1
+TORPEDO,SINGLE
+TORPEDO,SINGLE

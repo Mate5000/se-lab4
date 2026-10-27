@@ -1,0 +1,6 @@
+# SINGLE falls back from empty secondary to primary
+SUCCESS  # Ship initialized
+SUCCESS  # TORPEDO,SINGLE
+SUCCESS  # TORPEDO,SINGLE
+SUCCESS  # TORPEDO,SINGLE
+FAIL  # TORPEDO,SINGLE

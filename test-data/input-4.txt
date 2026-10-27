@@ -1,0 +1,3 @@
+# SINGLE does not fall back after primary failure
+GT4500,1,1,1,0
+TORPEDO,SINGLE

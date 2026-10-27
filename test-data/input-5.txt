@@ -1,0 +1,5 @@
+# SINGLE falls back from empty primary to secondary
+GT4500,0,0,2,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
