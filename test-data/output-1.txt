@@ -1,0 +1,3 @@
+# SINGLE starts with the primary store
+SUCCESS  # Ship initialized
+SUCCESS  # TORPEDO,SINGLE

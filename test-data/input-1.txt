@@ -1,0 +1,3 @@
+# SINGLE starts with the primary store
+GT4500,1,0,1,1
+TORPEDO,SINGLE

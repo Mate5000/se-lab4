@@ -1,0 +1,3 @@
+# ALL fails when both stores are empty
+SUCCESS  # Ship initialized
+FAIL  # TORPEDO,ALL

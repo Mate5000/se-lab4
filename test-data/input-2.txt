@@ -1,0 +1,5 @@
+# SINGLE consumes exactly one torpedo per command
+GT4500,1,0,1,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE

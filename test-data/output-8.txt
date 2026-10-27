@@ -1,0 +1,4 @@
+# ALL fires both healthy stores
+SUCCESS  # Ship initialized
+SUCCESS  # TORPEDO,ALL
+FAIL  # TORPEDO,SINGLE

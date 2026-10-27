@@ -1,0 +1,3 @@
+# ALL fails with failing primary and empty secondary
+SUCCESS  # Ship initialized
+FAIL  # TORPEDO,ALL

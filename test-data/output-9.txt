@@ -1,0 +1,4 @@
+# ALL succeeds when only secondary can fire
+SUCCESS  # Ship initialized
+SUCCESS  # TORPEDO,ALL
+FAIL  # TORPEDO,ALL
